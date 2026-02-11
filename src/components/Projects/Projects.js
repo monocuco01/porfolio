@@ -3,10 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import ubicaribeImage from "../../Assets/Projects/ubicaribeImage.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import v from "../../Assets/Projects/v.png";
 import trancaImage from "../../Assets/Projects/trancaImage.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import home from "../../Assets/Projects/Home.png";
 
 function Projects() {
